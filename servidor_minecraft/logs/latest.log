@@ -6684,3 +6684,1012 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [12Dec2024 02:47:46.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16543 chunks (0.68%), ETA: 125:31:22, Rate: 5.4 cps, Current: -57, -52
 [12Dec2024 02:47:47.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16558 chunks (0.68%), ETA: 116:31:31, Rate: 5.8 cps, Current: -59, -53
 [12Dec2024 02:47:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16568 chunks (0.68%), ETA: 114:23:52, Rate: 5.9 cps, Current: -61, -56
+[12Dec2024 02:47:50.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16574 chunks (0.68%), ETA: 111:18:50, Rate: 6.1 cps, Current: -63, -56
+[12Dec2024 02:47:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16579 chunks (0.68%), ETA: 112:21:52, Rate: 6.0 cps, Current: -63, -53
+[12Dec2024 02:47:52.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16588 chunks (0.68%), ETA: 109:50:56, Rate: 6.2 cps, Current: -61, -51
+[12Dec2024 02:47:54.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16595 chunks (0.68%), ETA: 106:15:27, Rate: 6.4 cps, Current: -64, -64
+[12Dec2024 02:47:54.919] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:47:55.003] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:47:55.003] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:47:55.003] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:47:56.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16602 chunks (0.68%), ETA: 103:24:02, Rate: 6.5 cps, Current: -63, -49
+[12Dec2024 02:47:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16609 chunks (0.68%), ETA: 101:16:29, Rate: 6.7 cps, Current: -62, -46
+[12Dec2024 02:47:58.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16619 chunks (0.68%), ETA: 98:26:26, Rate: 6.9 cps, Current: -58, -48
+[12Dec2024 02:47:59.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16630 chunks (0.68%), ETA: 95:02:41, Rate: 7.1 cps, Current: -59, -45
+[12Dec2024 02:48:01.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16634 chunks (0.68%), ETA: 98:26:08, Rate: 6.9 cps, Current: -60, -64
+[12Dec2024 02:48:02.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16637 chunks (0.68%), ETA: 100:27:57, Rate: 6.7 cps, Current: -58, -43
+[12Dec2024 02:48:03.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16644 chunks (0.68%), ETA: 101:41:43, Rate: 6.6 cps, Current: -60, -44
+[12Dec2024 02:48:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16651 chunks (0.68%), ETA: 100:05:23, Rate: 6.8 cps, Current: -60, -43
+[12Dec2024 02:48:06.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16659 chunks (0.68%), ETA: 104:24:54, Rate: 6.5 cps, Current: -56, -49
+[12Dec2024 02:48:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16663 chunks (0.68%), ETA: 105:11:08, Rate: 6.4 cps, Current: -54, -49
+[12Dec2024 02:48:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16669 chunks (0.68%), ETA: 111:47:52, Rate: 6.0 cps, Current: -62, -43
+[12Dec2024 02:48:10.579] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:10.581] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:10.582] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:10.584] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:11.327] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:11.330] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:11.331] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:11.332] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:12.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16672 chunks (0.68%), ETA: 118:30:14, Rate: 5.7 cps, Current: -63, -45
+[12Dec2024 02:48:14.119] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:14.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16679 chunks (0.68%), ETA: 132:21:56, Rate: 5.1 cps, Current: -62, -39
+[12Dec2024 02:48:15.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16685 chunks (0.68%), ETA: 137:05:50, Rate: 4.9 cps, Current: -62, -37
+[12Dec2024 02:48:16.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16691 chunks (0.68%), ETA: 146:01:39, Rate: 4.6 cps, Current: -64, -56
+[12Dec2024 02:48:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16703 chunks (0.68%), ETA: 145:11:46, Rate: 4.7 cps, Current: -59, -35
+[12Dec2024 02:48:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16720 chunks (0.68%), ETA: 132:52:06, Rate: 5.1 cps, Current: -58, -37
+[12Dec2024 02:48:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16727 chunks (0.68%), ETA: 131:22:27, Rate: 5.1 cps, Current: -57, -42
+[12Dec2024 02:48:21.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16735 chunks (0.68%), ETA: 132:28:35, Rate: 5.1 cps, Current: -55, -40
+[12Dec2024 02:48:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16741 chunks (0.68%), ETA: 127:42:36, Rate: 5.3 cps, Current: -54, -39
+[12Dec2024 02:48:23.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16751 chunks (0.68%), ETA: 123:55:18, Rate: 5.5 cps, Current: -56, -36
+[12Dec2024 02:48:24.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16762 chunks (0.68%), ETA: 120:16:03, Rate: 5.6 cps, Current: -53, -35
+[12Dec2024 02:48:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16768 chunks (0.68%), ETA: 118:43:33, Rate: 5.7 cps, Current: -52, -34
+[12Dec2024 02:48:26.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16773 chunks (0.68%), ETA: 121:52:20, Rate: 5.5 cps, Current: -50, -35
+[12Dec2024 02:48:28.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16782 chunks (0.69%), ETA: 122:44:04, Rate: 5.5 cps, Current: -51, -38
+[12Dec2024 02:48:29.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16789 chunks (0.69%), ETA: 125:48:24, Rate: 5.4 cps, Current: -64, -53
+[12Dec2024 02:48:30.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16792 chunks (0.69%), ETA: 124:37:33, Rate: 5.4 cps, Current: -50, -42
+[12Dec2024 02:48:31.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16811 chunks (0.69%), ETA: 113:06:40, Rate: 6.0 cps, Current: -52, -42
+[12Dec2024 02:48:32.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16853 chunks (0.69%), ETA: 93:21:12, Rate: 7.2 cps, Current: -49, -48
+[12Dec2024 02:48:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16866 chunks (0.69%), ETA: 91:22:56, Rate: 7.4 cps, Current: -48, -46
+[12Dec2024 02:48:35.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16871 chunks (0.69%), ETA: 93:51:08, Rate: 7.2 cps, Current: -64, -49
+[12Dec2024 02:48:37.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16887 chunks (0.69%), ETA: 88:44:28, Rate: 7.6 cps, Current: -44, -46
+[12Dec2024 02:48:37.215] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[12Dec2024 02:48:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16900 chunks (0.69%), ETA: 82:50:53, Rate: 8.2 cps, Current: -45, -43
+[12Dec2024 02:48:39.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16922 chunks (0.69%), ETA: 78:21:48, Rate: 8.6 cps, Current: -47, -41
+[12Dec2024 02:48:40.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16937 chunks (0.69%), ETA: 71:11:44, Rate: 9.5 cps, Current: -48, -37
+[12Dec2024 02:48:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16948 chunks (0.69%), ETA: 71:24:52, Rate: 9.5 cps, Current: -45, -35
+[12Dec2024 02:48:42.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16960 chunks (0.69%), ETA: 67:49:18, Rate: 10.0 cps, Current: -43, -35
+[12Dec2024 02:48:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16974 chunks (0.69%), ETA: 66:59:30, Rate: 10.1 cps, Current: -42, -38
+[12Dec2024 02:48:45.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16984 chunks (0.69%), ETA: 66:59:00, Rate: 10.1 cps, Current: -41, -39
+[12Dec2024 02:48:46.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16999 chunks (0.69%), ETA: 64:40:16, Rate: 10.4 cps, Current: -39, -38
+[12Dec2024 02:48:46.141] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:46.142] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:46.142] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:46.142] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:46.366] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:46.366] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:46.366] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:46.367] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:46.367] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17030 chunks (0.70%), ETA: 60:05:02, Rate: 11.2 cps, Current: -40, -40
+[12Dec2024 02:48:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17062 chunks (0.70%), ETA: 57:23:26, Rate: 11.8 cps, Current: -37, -41
+[12Dec2024 02:48:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17092 chunks (0.70%), ETA: 53:46:00, Rate: 12.6 cps, Current: -37, -45
+[12Dec2024 02:48:50.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17125 chunks (0.70%), ETA: 49:58:02, Rate: 13.5 cps, Current: -33, -51
+[12Dec2024 02:48:51.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17145 chunks (0.70%), ETA: 48:21:16, Rate: 14.0 cps, Current: -36, -53
+[12Dec2024 02:48:52.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17156 chunks (0.70%), ETA: 48:15:07, Rate: 14.0 cps, Current: -38, -53
+[12Dec2024 02:48:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17184 chunks (0.70%), ETA: 46:09:03, Rate: 14.6 cps, Current: -43, -50
+[12Dec2024 02:48:54.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17209 chunks (0.70%), ETA: 44:27:25, Rate: 15.2 cps, Current: -48, -53
+[12Dec2024 02:48:55.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.093] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.093] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.093] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.173] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.200] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.201] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.201] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.201] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:48:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17233 chunks (0.70%), ETA: 42:06:35, Rate: 16.0 cps, Current: -42, -55
+[12Dec2024 02:48:56.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17244 chunks (0.70%), ETA: 42:40:01, Rate: 15.8 cps, Current: -43, -56
+[12Dec2024 02:48:57.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17266 chunks (0.70%), ETA: 41:12:09, Rate: 16.4 cps, Current: -45, -59
+[12Dec2024 02:48:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17276 chunks (0.71%), ETA: 40:42:19, Rate: 16.6 cps, Current: -46, -61
+[12Dec2024 02:48:59.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17292 chunks (0.71%), ETA: 39:03:49, Rate: 17.3 cps, Current: -41, -60
+[12Dec2024 02:49:01.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17306 chunks (0.71%), ETA: 40:00:07, Rate: 16.9 cps, Current: -38, -62
+[12Dec2024 02:49:02.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17363 chunks (0.71%), ETA: 38:38:45, Rate: 17.5 cps, Current: -33, -63
+[12Dec2024 02:49:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17381 chunks (0.71%), ETA: 39:08:25, Rate: 17.3 cps, Current: -62, -32
+[12Dec2024 02:49:05.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17382 chunks (0.71%), ETA: 38:28:25, Rate: 17.6 cps, Current: -63, -32
+[12Dec2024 02:49:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17389 chunks (0.71%), ETA: 39:04:58, Rate: 17.3 cps, Current: -63, -27
+[12Dec2024 02:49:07.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17396 chunks (0.71%), ETA: 39:37:26, Rate: 17.0 cps, Current: -61, -28
+[12Dec2024 02:49:08.492] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:08.494] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:08.495] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:08.496] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17406 chunks (0.71%), ETA: 41:04:00, Rate: 16.4 cps, Current: -59, -28
+[12Dec2024 02:49:08.856] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:09.295] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:09.295] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:09.295] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:09.310] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:09.311] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:09.311] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:09.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17425 chunks (0.71%), ETA: 40:46:26, Rate: 16.6 cps, Current: -58, -26
+[12Dec2024 02:49:10.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17439 chunks (0.71%), ETA: 40:21:14, Rate: 16.7 cps, Current: -39, -33
+[12Dec2024 02:49:11.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17454 chunks (0.71%), ETA: 39:59:20, Rate: 16.9 cps, Current: -56, -32
+[12Dec2024 02:49:12.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17470 chunks (0.71%), ETA: 39:53:30, Rate: 16.9 cps, Current: -52, -30
+[12Dec2024 02:49:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17488 chunks (0.71%), ETA: 38:45:52, Rate: 17.4 cps, Current: -56, -28
+[12Dec2024 02:49:15.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17499 chunks (0.71%), ETA: 39:17:47, Rate: 17.2 cps, Current: -55, -27
+[12Dec2024 02:49:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17513 chunks (0.72%), ETA: 40:48:22, Rate: 16.6 cps, Current: -51, -25
+[12Dec2024 02:49:17.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17525 chunks (0.72%), ETA: 42:40:53, Rate: 15.8 cps, Current: -51, -23
+[12Dec2024 02:49:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17533 chunks (0.72%), ETA: 45:27:24, Rate: 14.9 cps, Current: -50, -22
+[12Dec2024 02:49:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17541 chunks (0.72%), ETA: 48:26:09, Rate: 13.9 cps, Current: -49, -19
+[12Dec2024 02:49:21.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17551 chunks (0.72%), ETA: 49:35:19, Rate: 13.6 cps, Current: -54, -21
+[12Dec2024 02:49:22.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17562 chunks (0.72%), ETA: 51:53:08, Rate: 13.0 cps, Current: -56, -25
+[12Dec2024 02:49:23.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17576 chunks (0.72%), ETA: 53:10:32, Rate: 12.7 cps, Current: -57, -19
+[12Dec2024 02:49:24.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17585 chunks (0.72%), ETA: 55:24:23, Rate: 12.2 cps, Current: -59, -24
+[12Dec2024 02:49:25.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17592 chunks (0.72%), ETA: 56:08:59, Rate: 12.0 cps, Current: -50, -18
+[12Dec2024 02:49:26.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17603 chunks (0.72%), ETA: 58:00:38, Rate: 11.6 cps, Current: -58, -18
+[12Dec2024 02:49:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17618 chunks (0.72%), ETA: 57:09:39, Rate: 11.8 cps, Current: -60, -19
+[12Dec2024 02:49:29.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17627 chunks (0.72%), ETA: 59:40:56, Rate: 11.3 cps, Current: -63, -24
+[12Dec2024 02:49:30.554] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.555] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.555] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.555] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.555] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.568] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.568] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.568] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.568] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:30.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17642 chunks (0.72%), ETA: 58:56:44, Rate: 11.5 cps, Current: -58, -17
+[12Dec2024 02:49:31.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17651 chunks (0.72%), ETA: 68:43:43, Rate: 9.8 cps, Current: -62, -14
+[12Dec2024 02:49:33.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17659 chunks (0.72%), ETA: 70:43:02, Rate: 9.6 cps, Current: -59, -12
+[12Dec2024 02:49:34.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17664 chunks (0.72%), ETA: 71:11:16, Rate: 9.5 cps, Current: -58, -10
+[12Dec2024 02:49:35.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17680 chunks (0.72%), ETA: 68:59:19, Rate: 9.8 cps, Current: -62, -11
+[12Dec2024 02:49:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17686 chunks (0.72%), ETA: 68:49:17, Rate: 9.8 cps, Current: -62, -9
+[12Dec2024 02:49:38.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17692 chunks (0.72%), ETA: 73:19:35, Rate: 9.2 cps, Current: -62, -7
+[12Dec2024 02:49:39.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17695 chunks (0.72%), ETA: 76:26:38, Rate: 8.8 cps, Current: -63, -7
+[12Dec2024 02:49:41.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17698 chunks (0.72%), ETA: 82:09:32, Rate: 8.2 cps, Current: -57, -17
+[12Dec2024 02:49:42.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17707 chunks (0.72%), ETA: 84:19:52, Rate: 8.0 cps, Current: -63, -5
+[12Dec2024 02:49:43.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17713 chunks (0.72%), ETA: 88:58:36, Rate: 7.6 cps, Current: -63, -2
+[12Dec2024 02:49:45.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17724 chunks (0.72%), ETA: 89:02:50, Rate: 7.6 cps, Current: -60, -3
+[12Dec2024 02:49:45.594] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:45.868] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:45.869] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:45.869] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:45.869] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:46.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17730 chunks (0.72%), ETA: 92:09:02, Rate: 7.3 cps, Current: -59, -2
+[12Dec2024 02:49:46.711] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:46.711] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:46.711] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:46.765] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:46.765] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:46.765] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:49:47.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17748 chunks (0.72%), ETA: 89:23:43, Rate: 7.6 cps, Current: -64, -23
+[12Dec2024 02:49:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17755 chunks (0.72%), ETA: 88:33:04, Rate: 7.6 cps, Current: -57, -14
+[12Dec2024 02:49:49.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17759 chunks (0.73%), ETA: 89:51:47, Rate: 7.5 cps, Current: -55, -8
+[12Dec2024 02:49:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17762 chunks (0.73%), ETA: 93:33:34, Rate: 7.2 cps, Current: -56, -7
+[12Dec2024 02:49:51.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17772 chunks (0.73%), ETA: 94:04:46, Rate: 7.2 cps, Current: -56, -4
+[12Dec2024 02:49:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17781 chunks (0.73%), ETA: 96:58:44, Rate: 7.0 cps, Current: -54, -5
+[12Dec2024 02:49:54.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17789 chunks (0.73%), ETA: 97:18:00, Rate: 6.9 cps, Current: -52, -3
+[12Dec2024 02:49:55.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17794 chunks (0.73%), ETA: 98:44:28, Rate: 6.8 cps, Current: -50, -4
+[12Dec2024 02:49:56.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17804 chunks (0.73%), ETA: 99:54:29, Rate: 6.8 cps, Current: -49, -3
+[12Dec2024 02:49:58.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17815 chunks (0.73%), ETA: 102:54:21, Rate: 6.6 cps, Current: -49, -2
+[12Dec2024 02:49:59.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17819 chunks (0.73%), ETA: 104:21:36, Rate: 6.5 cps, Current: -50, -10
+[12Dec2024 02:50:00.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17831 chunks (0.73%), ETA: 106:10:15, Rate: 6.4 cps, Current: -50, -12
+[12Dec2024 02:50:01.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17867 chunks (0.73%), ETA: 92:57:55, Rate: 7.3 cps, Current: -52, -15
+[12Dec2024 02:50:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17887 chunks (0.73%), ETA: 86:47:22, Rate: 7.8 cps, Current: -48, -15
+[12Dec2024 02:50:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17892 chunks (0.73%), ETA: 85:07:12, Rate: 7.9 cps, Current: -46, -15
+[12Dec2024 02:50:05.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17895 chunks (0.73%), ETA: 91:21:44, Rate: 7.4 cps, Current: -64, -16
+[12Dec2024 02:50:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17904 chunks (0.73%), ETA: 89:52:01, Rate: 7.5 cps, Current: -44, -14
+[12Dec2024 02:50:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17918 chunks (0.73%), ETA: 87:33:33, Rate: 7.7 cps, Current: -43, -12
+[12Dec2024 02:50:09.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17922 chunks (0.73%), ETA: 87:22:13, Rate: 7.7 cps, Current: -44, -12
+[12Dec2024 02:50:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17933 chunks (0.73%), ETA: 82:13:40, Rate: 8.2 cps, Current: -47, -10
+[12Dec2024 02:50:11.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17946 chunks (0.73%), ETA: 81:47:07, Rate: 8.3 cps, Current: -48, -9
+[12Dec2024 02:50:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17959 chunks (0.73%), ETA: 79:07:12, Rate: 8.5 cps, Current: -47, -6
+[12Dec2024 02:50:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17968 chunks (0.73%), ETA: 80:11:14, Rate: 8.4 cps, Current: -46, -4
+[12Dec2024 02:50:15.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17977 chunks (0.73%), ETA: 80:11:11, Rate: 8.4 cps, Current: -45, -9
+[12Dec2024 02:50:16.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 17986 chunks (0.73%), ETA: 83:36:15, Rate: 8.1 cps, Current: -43, -2
+[12Dec2024 02:50:17.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18001 chunks (0.73%), ETA: 81:01:27, Rate: 8.3 cps, Current: -42, -2
+[12Dec2024 02:50:18.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18011 chunks (0.74%), ETA: 79:24:43, Rate: 8.5 cps, Current: -41, -8
+[12Dec2024 02:50:20.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18016 chunks (0.74%), ETA: 77:34:15, Rate: 8.7 cps, Current: -40, -6
+[12Dec2024 02:50:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18028 chunks (0.74%), ETA: 77:18:21, Rate: 8.7 cps, Current: -41, -2
+[12Dec2024 02:50:22.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18065 chunks (0.74%), ETA: 69:10:01, Rate: 9.8 cps, Current: -34, -7
+[12Dec2024 02:50:23.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18083 chunks (0.74%), ETA: 66:45:28, Rate: 10.1 cps, Current: -37, -8
+[12Dec2024 02:50:24.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18108 chunks (0.74%), ETA: 61:56:54, Rate: 10.9 cps, Current: -38, -12
+[12Dec2024 02:50:25.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18132 chunks (0.74%), ETA: 59:34:12, Rate: 11.3 cps, Current: -36, -15
+[12Dec2024 02:50:25.629] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:25.630] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:25.631] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:25.631] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:25.632] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:25.692] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:25.693] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:25.693] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:25.694] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:26.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18155 chunks (0.74%), ETA: 57:11:00, Rate: 11.8 cps, Current: -33, -21
+[12Dec2024 02:50:27.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18168 chunks (0.74%), ETA: 55:51:10, Rate: 12.1 cps, Current: -35, -22
+[12Dec2024 02:50:28.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18177 chunks (0.74%), ETA: 55:19:16, Rate: 12.2 cps, Current: -39, -22
+[12Dec2024 02:50:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18203 chunks (0.74%), ETA: 52:56:37, Rate: 12.8 cps, Current: -34, -24
+[12Dec2024 02:50:30.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18226 chunks (0.74%), ETA: 54:57:22, Rate: 12.3 cps, Current: -48, -19
+[12Dec2024 02:50:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18246 chunks (0.74%), ETA: 54:33:16, Rate: 12.4 cps, Current: -45, -22
+[12Dec2024 02:50:32.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18271 chunks (0.75%), ETA: 51:32:25, Rate: 13.1 cps, Current: -43, -24
+[12Dec2024 02:50:33.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18312 chunks (0.75%), ETA: 46:24:30, Rate: 14.6 cps, Current: -44, -32
+[12Dec2024 02:50:34.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18350 chunks (0.75%), ETA: 44:01:26, Rate: 15.3 cps, Current: -39, -30
+[12Dec2024 02:50:35.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18396 chunks (0.75%), ETA: 40:26:48, Rate: 16.7 cps, Current: -35, -29
+[12Dec2024 02:50:37.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18414 chunks (0.75%), ETA: 39:25:06, Rate: 17.1 cps, Current: -37, -1
+[12Dec2024 02:50:38.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18424 chunks (0.75%), ETA: 39:00:21, Rate: 17.3 cps, Current: -47, -1
+[12Dec2024 02:50:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18433 chunks (0.75%), ETA: 39:57:52, Rate: 16.9 cps, Current: -62, 0
+[12Dec2024 02:50:41.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18436 chunks (0.75%), ETA: 40:34:00, Rate: 16.6 cps, Current: -61, 2
+[12Dec2024 02:50:42.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18439 chunks (0.75%), ETA: 41:23:20, Rate: 16.3 cps, Current: -62, 1
+[12Dec2024 02:50:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18450 chunks (0.75%), ETA: 40:46:07, Rate: 16.6 cps, Current: -60, 5
+[12Dec2024 02:50:44.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18459 chunks (0.75%), ETA: 40:13:59, Rate: 16.8 cps, Current: -57, 0
+[12Dec2024 02:50:45.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18470 chunks (0.75%), ETA: 40:56:05, Rate: 16.5 cps, Current: -63, 1
+[12Dec2024 02:50:47.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18483 chunks (0.75%), ETA: 40:55:49, Rate: 16.5 cps, Current: -50, 2
+[12Dec2024 02:50:47.615] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:47.615] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:47.615] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:47.616] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:47.616] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:48.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18495 chunks (0.76%), ETA: 40:40:45, Rate: 16.6 cps, Current: -57, 3
+[12Dec2024 02:50:49.185] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:49.186] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:49.186] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:49.186] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:50:49.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18511 chunks (0.76%), ETA: 39:53:23, Rate: 16.9 cps, Current: -50, 4
+[12Dec2024 02:50:50.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18523 chunks (0.76%), ETA: 40:17:47, Rate: 16.8 cps, Current: -50, 6
+[12Dec2024 02:50:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18529 chunks (0.76%), ETA: 44:07:50, Rate: 15.3 cps, Current: -54, 7
+[12Dec2024 02:50:53.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18542 chunks (0.76%), ETA: 45:20:07, Rate: 14.9 cps, Current: -52, 9
+[12Dec2024 02:50:54.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18549 chunks (0.76%), ETA: 47:47:11, Rate: 14.1 cps, Current: -50, 11
+[12Dec2024 02:50:56.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18560 chunks (0.76%), ETA: 49:40:45, Rate: 13.6 cps, Current: -50, 12
+[12Dec2024 02:50:57.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18566 chunks (0.76%), ETA: 49:57:42, Rate: 13.5 cps, Current: -50, 13
+[12Dec2024 02:50:58.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18574 chunks (0.76%), ETA: 50:39:38, Rate: 13.3 cps, Current: -54, 10
+[12Dec2024 02:51:00.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18587 chunks (0.76%), ETA: 54:40:34, Rate: 12.3 cps, Current: -56, 12
+[12Dec2024 02:51:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18603 chunks (0.76%), ETA: 56:01:54, Rate: 12.0 cps, Current: -58, 9
+[12Dec2024 02:51:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18611 chunks (0.76%), ETA: 59:15:09, Rate: 11.4 cps, Current: -49, 14
+[12Dec2024 02:51:03.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18623 chunks (0.76%), ETA: 64:28:34, Rate: 10.5 cps, Current: -62, 7
+[12Dec2024 02:51:04.077] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:04.077] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:04.203] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:04.203] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:04.203] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:04.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18635 chunks (0.76%), ETA: 70:43:11, Rate: 9.5 cps, Current: -59, 11
+[12Dec2024 02:51:06.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18646 chunks (0.76%), ETA: 83:27:12, Rate: 8.1 cps, Current: -61, 14
+[12Dec2024 02:51:07.369] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Dec2024 02:51:07.369] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Dec2024 02:51:07.485] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.517] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.517] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.518] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.518] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.518] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.518] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.519] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.519] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.519] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:07.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18651 chunks (0.76%), ETA: 86:28:14, Rate: 7.8 cps, Current: -63, 8
+[12Dec2024 02:51:07.616] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:08.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18665 chunks (0.76%), ETA: 82:49:36, Rate: 8.2 cps, Current: -58, 15
+[12Dec2024 02:51:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18674 chunks (0.76%), ETA: 82:32:29, Rate: 8.2 cps, Current: -62, 18
+[12Dec2024 02:51:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18681 chunks (0.76%), ETA: 81:07:50, Rate: 8.3 cps, Current: -58, 18
+[12Dec2024 02:51:11.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18686 chunks (0.76%), ETA: 80:38:12, Rate: 8.4 cps, Current: -58, 21
+[12Dec2024 02:51:13.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18688 chunks (0.76%), ETA: 84:00:54, Rate: 8.0 cps, Current: -59, 22
+[12Dec2024 02:51:14.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18701 chunks (0.76%), ETA: 82:36:24, Rate: 8.2 cps, Current: -64, 1
+[12Dec2024 02:51:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18713 chunks (0.76%), ETA: 83:16:24, Rate: 8.1 cps, Current: -63, 24
+[12Dec2024 02:51:16.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18716 chunks (0.76%), ETA: 85:14:48, Rate: 7.9 cps, Current: -64, 6
+[12Dec2024 02:51:17.658] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:17.659] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:17.659] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:17.659] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:18.523] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:18.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18731 chunks (0.76%), ETA: 89:54:00, Rate: 7.5 cps, Current: -63, 26
+[12Dec2024 02:51:18.774] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:18.774] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:18.775] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:18.775] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18744 chunks (0.77%), ETA: 88:09:34, Rate: 7.7 cps, Current: -61, 28
+[12Dec2024 02:51:20.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18752 chunks (0.77%), ETA: 85:56:04, Rate: 7.9 cps, Current: -63, 30
+[12Dec2024 02:51:22.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18773 chunks (0.77%), ETA: 81:54:38, Rate: 8.2 cps, Current: -57, 16
+[12Dec2024 02:51:23.604] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:23.604] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:23.605] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:23.605] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:23.677] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:23.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18784 chunks (0.77%), ETA: 82:33:03, Rate: 8.2 cps, Current: -57, 25
+[12Dec2024 02:51:24.664] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:24.664] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:24.665] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:24.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18795 chunks (0.77%), ETA: 81:36:36, Rate: 8.3 cps, Current: -56, 27
+[12Dec2024 02:51:24.838] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:24.838] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:24.839] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18807 chunks (0.77%), ETA: 80:55:56, Rate: 8.3 cps, Current: -54, 28
+[12Dec2024 02:51:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18817 chunks (0.77%), ETA: 79:05:43, Rate: 8.5 cps, Current: -51, 28
+[12Dec2024 02:51:28.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18838 chunks (0.77%), ETA: 76:11:06, Rate: 8.9 cps, Current: -49, 29
+[12Dec2024 02:51:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18863 chunks (0.77%), ETA: 71:33:38, Rate: 9.4 cps, Current: -53, 21
+[12Dec2024 02:51:30.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18912 chunks (0.77%), ETA: 63:24:21, Rate: 10.6 cps, Current: -47, 17
+[12Dec2024 02:51:31.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18918 chunks (0.77%), ETA: 63:28:24, Rate: 10.6 cps, Current: -48, 19
+[12Dec2024 02:51:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18935 chunks (0.77%), ETA: 62:47:35, Rate: 10.8 cps, Current: -44, 19
+[12Dec2024 02:51:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18953 chunks (0.77%), ETA: 61:16:30, Rate: 11.0 cps, Current: -47, 20
+[12Dec2024 02:51:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18969 chunks (0.77%), ETA: 60:13:30, Rate: 11.2 cps, Current: -41, 18
+[12Dec2024 02:51:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18985 chunks (0.78%), ETA: 59:28:59, Rate: 11.3 cps, Current: -44, 23
+[12Dec2024 02:51:37.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 18998 chunks (0.78%), ETA: 57:29:34, Rate: 11.7 cps, Current: -45, 29
+[12Dec2024 02:51:38.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19019 chunks (0.78%), ETA: 56:23:00, Rate: 12.0 cps, Current: -43, 30
+[12Dec2024 02:51:39.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19032 chunks (0.78%), ETA: 55:47:26, Rate: 12.1 cps, Current: -41, 25
+[12Dec2024 02:51:40.055] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:40.056] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:40.056] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:40.056] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:40.220] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19045 chunks (0.78%), ETA: 54:38:38, Rate: 12.4 cps, Current: -41, 29
+[12Dec2024 02:51:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19064 chunks (0.78%), ETA: 52:32:15, Rate: 12.8 cps, Current: -36, 29
+[12Dec2024 02:51:41.498] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:41.498] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:41.499] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:41.499] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:42.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19114 chunks (0.78%), ETA: 46:36:31, Rate: 14.5 cps, Current: -40, 22
+[12Dec2024 02:51:43.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19150 chunks (0.78%), ETA: 44:20:23, Rate: 15.2 cps, Current: -40, 17
+[12Dec2024 02:51:44.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19171 chunks (0.78%), ETA: 42:44:15, Rate: 15.8 cps, Current: -38, 16
+[12Dec2024 02:51:45.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19187 chunks (0.78%), ETA: 41:39:53, Rate: 16.2 cps, Current: -34, 9
+[12Dec2024 02:51:46.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19198 chunks (0.78%), ETA: 40:40:24, Rate: 16.6 cps, Current: -37, 9
+[12Dec2024 02:51:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19220 chunks (0.78%), ETA: 40:15:57, Rate: 16.8 cps, Current: -34, 8
+[12Dec2024 02:51:48.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19234 chunks (0.79%), ETA: 40:08:22, Rate: 16.8 cps, Current: -44, 15
+[12Dec2024 02:51:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19259 chunks (0.79%), ETA: 38:33:43, Rate: 17.5 cps, Current: -46, 11
+[12Dec2024 02:51:51.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19282 chunks (0.79%), ETA: 38:20:35, Rate: 17.6 cps, Current: -42, 9
+[12Dec2024 02:51:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19291 chunks (0.79%), ETA: 38:06:02, Rate: 17.7 cps, Current: -43, 5
+[12Dec2024 02:51:53.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19308 chunks (0.79%), ETA: 38:10:08, Rate: 17.7 cps, Current: -48, 6
+[12Dec2024 02:51:54.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19327 chunks (0.79%), ETA: 37:38:15, Rate: 17.9 cps, Current: -44, 4
+[12Dec2024 02:51:55.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19363 chunks (0.79%), ETA: 35:38:48, Rate: 18.9 cps, Current: -41, 4
+[12Dec2024 02:51:56.151] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:56.152] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:56.152] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:56.153] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:51:56.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19425 chunks (0.79%), ETA: 32:38:00, Rate: 20.7 cps, Current: -64, 31
+[12Dec2024 02:51:58.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19430 chunks (0.79%), ETA: 34:31:01, Rate: 19.6 cps, Current: -63, 32
+[12Dec2024 02:51:59.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19439 chunks (0.79%), ETA: 37:27:51, Rate: 18.0 cps, Current: -62, 36
+[12Dec2024 02:52:01.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19453 chunks (0.79%), ETA: 37:10:45, Rate: 18.2 cps, Current: -60, 36
+[12Dec2024 02:52:02.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19459 chunks (0.79%), ETA: 37:46:55, Rate: 17.9 cps, Current: -58, 34
+[12Dec2024 02:52:03.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19482 chunks (0.80%), ETA: 37:23:03, Rate: 18.1 cps, Current: -37, 31
+[12Dec2024 02:52:04.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19498 chunks (0.80%), ETA: 37:22:27, Rate: 18.1 cps, Current: -55, 32
+[12Dec2024 02:52:05.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19515 chunks (0.80%), ETA: 37:26:13, Rate: 18.0 cps, Current: -56, 34
+[12Dec2024 02:52:06.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19535 chunks (0.80%), ETA: 36:43:03, Rate: 18.4 cps, Current: -51, 36
+[12Dec2024 02:52:09.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19546 chunks (0.80%), ETA: 39:09:19, Rate: 17.2 cps, Current: -57, 38
+[12Dec2024 02:52:10.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19554 chunks (0.80%), ETA: 39:32:06, Rate: 17.1 cps, Current: -50, 37
+[12Dec2024 02:52:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19570 chunks (0.80%), ETA: 39:42:27, Rate: 17.0 cps, Current: -50, 39
+[12Dec2024 02:52:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19581 chunks (0.80%), ETA: 45:11:53, Rate: 14.9 cps, Current: -49, 42
+[12Dec2024 02:52:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19587 chunks (0.80%), ETA: 46:08:39, Rate: 14.6 cps, Current: -51, 42
+[12Dec2024 02:52:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19597 chunks (0.80%), ETA: 47:46:23, Rate: 14.1 cps, Current: -53, 42
+[12Dec2024 02:52:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19610 chunks (0.80%), ETA: 47:13:28, Rate: 14.3 cps, Current: -56, 44
+[12Dec2024 02:52:16.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19626 chunks (0.80%), ETA: 47:07:44, Rate: 14.3 cps, Current: -58, 39
+[12Dec2024 02:52:17.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19640 chunks (0.80%), ETA: 48:03:16, Rate: 14.0 cps, Current: -50, 46
+[12Dec2024 02:52:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19652 chunks (0.80%), ETA: 48:18:11, Rate: 14.0 cps, Current: -59, 42
+[12Dec2024 02:52:19.669] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.669] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.669] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.669] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.670] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.820] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.821] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.821] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.821] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:19.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19671 chunks (0.80%), ETA: 49:01:09, Rate: 13.8 cps, Current: -57, 46
+[12Dec2024 02:52:21.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19678 chunks (0.80%), ETA: 51:11:47, Rate: 13.2 cps, Current: -63, 41
+[12Dec2024 02:52:23.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19694 chunks (0.80%), ETA: 51:37:29, Rate: 13.1 cps, Current: -59, 48
+[12Dec2024 02:52:24.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19701 chunks (0.80%), ETA: 53:17:47, Rate: 12.7 cps, Current: -61, 50
+[12Dec2024 02:52:25.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19708 chunks (0.80%), ETA: 69:43:47, Rate: 9.7 cps, Current: -59, 52
+[12Dec2024 02:52:27.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19716 chunks (0.80%), ETA: 67:15:55, Rate: 10.0 cps, Current: -58, 54
+[12Dec2024 02:52:28.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19731 chunks (0.81%), ETA: 66:28:01, Rate: 10.2 cps, Current: -64, 35
+[12Dec2024 02:52:29.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19738 chunks (0.81%), ETA: 67:05:07, Rate: 10.1 cps, Current: -63, 54
+[12Dec2024 02:52:31.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19747 chunks (0.81%), ETA: 68:16:20, Rate: 9.9 cps, Current: -56, 47
+[12Dec2024 02:52:32.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19758 chunks (0.81%), ETA: 71:13:38, Rate: 9.5 cps, Current: -62, 59
+[12Dec2024 02:52:33.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19765 chunks (0.81%), ETA: 73:39:06, Rate: 9.2 cps, Current: -61, 59
+[12Dec2024 02:52:33.780] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[12Dec2024 02:52:33.780] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[12Dec2024 02:52:34.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19778 chunks (0.81%), ETA: 74:43:26, Rate: 9.0 cps, Current: -60, 62
+[12Dec2024 02:52:35.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19797 chunks (0.81%), ETA: 75:01:40, Rate: 9.0 cps, Current: -57, 48
+[12Dec2024 02:52:36.250] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.250] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.664] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.664] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.677] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.677] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.678] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.678] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.678] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.787] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.787] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:36.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19811 chunks (0.81%), ETA: 70:13:16, Rate: 9.6 cps, Current: -55, 57
+[12Dec2024 02:52:38.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19822 chunks (0.81%), ETA: 70:32:44, Rate: 9.6 cps, Current: -53, 56
+[12Dec2024 02:52:39.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19835 chunks (0.81%), ETA: 69:21:41, Rate: 9.7 cps, Current: -53, 60
+[12Dec2024 02:52:40.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19846 chunks (0.81%), ETA: 71:15:31, Rate: 9.5 cps, Current: -50, 62
+[12Dec2024 02:52:41.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19862 chunks (0.81%), ETA: 69:20:38, Rate: 9.7 cps, Current: -50, 56
+[12Dec2024 02:52:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19869 chunks (0.81%), ETA: 69:10:30, Rate: 9.8 cps, Current: -50, 53
+[12Dec2024 02:52:43.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19928 chunks (0.81%), ETA: 58:37:58, Rate: 11.5 cps, Current: -49, 50
+[12Dec2024 02:52:44.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19940 chunks (0.81%), ETA: 58:33:52, Rate: 11.5 cps, Current: -46, 50
+[12Dec2024 02:52:45.188] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:45.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19947 chunks (0.81%), ETA: 59:47:15, Rate: 11.3 cps, Current: -43, 49
+[12Dec2024 02:52:46.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19964 chunks (0.82%), ETA: 59:36:31, Rate: 11.3 cps, Current: -42, 52
+[12Dec2024 02:52:47.596] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:47.596] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:47.597] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:47.597] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:47.607] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:47.607] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:47.608] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:47.608] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:52:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 19993 chunks (0.82%), ETA: 57:04:22, Rate: 11.8 cps, Current: -46, 55
+[12Dec2024 02:52:48.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20011 chunks (0.82%), ETA: 56:04:07, Rate: 12.0 cps, Current: -41, 52
+[12Dec2024 02:52:49.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20023 chunks (0.82%), ETA: 57:11:02, Rate: 11.8 cps, Current: -45, 61
+[12Dec2024 02:52:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20047 chunks (0.82%), ETA: 53:46:52, Rate: 12.5 cps, Current: -42, 61
+[12Dec2024 02:52:52.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20057 chunks (0.82%), ETA: 54:22:54, Rate: 12.4 cps, Current: -64, 53
+[12Dec2024 02:52:53.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20071 chunks (0.82%), ETA: 53:14:01, Rate: 12.7 cps, Current: -39, 58
+[12Dec2024 02:52:54.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20087 chunks (0.82%), ETA: 50:49:06, Rate: 13.3 cps, Current: -36, 61
+[12Dec2024 02:52:55.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20130 chunks (0.82%), ETA: 47:15:17, Rate: 14.3 cps, Current: -33, 53
+[12Dec2024 02:52:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20162 chunks (0.82%), ETA: 44:25:05, Rate: 15.2 cps, Current: -64, 60
+[12Dec2024 02:52:57.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20198 chunks (0.82%), ETA: 42:22:20, Rate: 15.9 cps, Current: -35, 46
+[12Dec2024 02:52:59.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20220 chunks (0.83%), ETA: 40:58:55, Rate: 16.5 cps, Current: -37, 42
+[12Dec2024 02:53:00.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20246 chunks (0.83%), ETA: 38:38:47, Rate: 17.5 cps, Current: -40, 47
+[12Dec2024 02:53:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20277 chunks (0.83%), ETA: 37:40:59, Rate: 17.9 cps, Current: -48, 44
+[12Dec2024 02:53:02.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20306 chunks (0.83%), ETA: 36:30:49, Rate: 18.5 cps, Current: -41, 41
+[12Dec2024 02:53:03.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20315 chunks (0.83%), ETA: 36:25:12, Rate: 18.5 cps, Current: -42, 39
+[12Dec2024 02:53:04.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20357 chunks (0.83%), ETA: 34:26:16, Rate: 19.6 cps, Current: -45, 32
+[12Dec2024 02:53:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20387 chunks (0.83%), ETA: 33:44:34, Rate: 20.0 cps, Current: -41, 36
+[12Dec2024 02:53:06.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20426 chunks (0.83%), ETA: 32:16:55, Rate: 20.9 cps, Current: -37, 35
+[12Dec2024 02:53:08.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20453 chunks (0.84%), ETA: 32:22:53, Rate: 20.8 cps, Current: -62, 64
+[12Dec2024 02:53:10.202] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:10.203] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:10.203] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:10.203] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:10.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20462 chunks (0.84%), ETA: 32:43:48, Rate: 20.6 cps, Current: -62, 68
+[12Dec2024 02:53:11.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20476 chunks (0.84%), ETA: 32:54:31, Rate: 20.5 cps, Current: -59, 69
+[12Dec2024 02:53:12.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20500 chunks (0.84%), ETA: 31:59:28, Rate: 21.1 cps, Current: -57, 64
+[12Dec2024 02:53:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20518 chunks (0.84%), ETA: 34:08:18, Rate: 19.8 cps, Current: -51, 63
+[12Dec2024 02:53:14.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20540 chunks (0.84%), ETA: 33:35:45, Rate: 20.1 cps, Current: -52, 66
+[12Dec2024 02:53:15.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20561 chunks (0.84%), ETA: 32:47:22, Rate: 20.6 cps, Current: -55, 69
+[12Dec2024 02:53:16.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20569 chunks (0.84%), ETA: 33:57:50, Rate: 19.9 cps, Current: -50, 67
+[12Dec2024 02:53:17.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20576 chunks (0.84%), ETA: 34:36:34, Rate: 19.5 cps, Current: -53, 70
+[12Dec2024 02:53:18.116] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 02:53:18.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20590 chunks (0.84%), ETA: 34:29:28, Rate: 19.6 cps, Current: -51, 72
+[12Dec2024 02:53:20.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20599 chunks (0.84%), ETA: 35:27:12, Rate: 19.0 cps, Current: -55, 74
+[12Dec2024 02:53:21.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20605 chunks (0.84%), ETA: 35:42:06, Rate: 18.9 cps, Current: -50, 76
+[12Dec2024 02:53:22.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20613 chunks (0.84%), ETA: 36:15:18, Rate: 18.6 cps, Current: -51, 78
+[12Dec2024 02:53:23.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20631 chunks (0.84%), ETA: 36:24:10, Rate: 18.5 cps, Current: -56, 71
+[12Dec2024 02:53:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20653 chunks (0.84%), ETA: 38:06:58, Rate: 17.7 cps, Current: -56, 78
+[12Dec2024 02:53:25.540] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[12Dec2024 02:53:25.715] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:25.820] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:25.821] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:25.821] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:25.821] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:26.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20670 chunks (0.84%), ETA: 39:13:43, Rate: 17.2 cps, Current: -62, 72
+[12Dec2024 02:53:27.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20683 chunks (0.84%), ETA: 40:57:06, Rate: 16.5 cps, Current: -63, 74
+[12Dec2024 02:53:29.126] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[12Dec2024 02:53:29.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20695 chunks (0.84%), ETA: 44:38:56, Rate: 15.1 cps, Current: -64, 68
+[12Dec2024 02:53:30.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20706 chunks (0.85%), ETA: 46:48:25, Rate: 14.4 cps, Current: -62, 80
+[12Dec2024 02:53:31.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20718 chunks (0.85%), ETA: 48:37:55, Rate: 13.9 cps, Current: -61, 81
+[12Dec2024 02:53:32.632] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[12Dec2024 02:53:33.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20729 chunks (0.85%), ETA: 52:39:38, Rate: 12.8 cps, Current: -58, 81
+[12Dec2024 02:53:33.609] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:33.609] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:33.609] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:33.609] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:34.456] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:34.456] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:34.456] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:34.457] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:34.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20736 chunks (0.85%), ETA: 56:14:10, Rate: 12.0 cps, Current: -59, 85
+[12Dec2024 02:53:34.741] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:34.742] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:34.742] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:34.742] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:35.372] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:35.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20746 chunks (0.85%), ETA: 61:21:48, Rate: 11.0 cps, Current: -61, 86
+[12Dec2024 02:53:36.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20758 chunks (0.85%), ETA: 61:33:13, Rate: 11.0 cps, Current: -62, 87
+[12Dec2024 02:53:38.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20763 chunks (0.85%), ETA: 64:16:46, Rate: 10.5 cps, Current: -49, 76
+[12Dec2024 02:53:39.505] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Dec2024 02:53:39.505] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Dec2024 02:53:40.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20772 chunks (0.85%), ETA: 65:03:44, Rate: 10.4 cps, Current: -55, 79
+[12Dec2024 02:53:41.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20781 chunks (0.85%), ETA: 69:37:52, Rate: 9.7 cps, Current: -63, 94
+[12Dec2024 02:53:42.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20792 chunks (0.85%), ETA: 71:26:24, Rate: 9.4 cps, Current: -61, 91
+[12Dec2024 02:53:44.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20799 chunks (0.85%), ETA: 76:19:55, Rate: 8.8 cps, Current: -59, 93
+[12Dec2024 02:53:45.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:45.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:45.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20821 chunks (0.85%), ETA: 76:33:11, Rate: 8.8 cps, Current: -57, 81
+[12Dec2024 02:53:45.652] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:45.653] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:45.653] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:53:46.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20834 chunks (0.85%), ETA: 75:05:00, Rate: 9.0 cps, Current: -57, 90
+[12Dec2024 02:53:47.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20846 chunks (0.85%), ETA: 74:09:38, Rate: 9.1 cps, Current: -55, 93
+[12Dec2024 02:53:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20862 chunks (0.85%), ETA: 73:15:34, Rate: 9.2 cps, Current: -52, 93
+[12Dec2024 02:53:50.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20874 chunks (0.85%), ETA: 72:35:11, Rate: 9.3 cps, Current: -52, 89
+[12Dec2024 02:53:51.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20885 chunks (0.85%), ETA: 71:42:53, Rate: 9.4 cps, Current: -50, 87
+[12Dec2024 02:53:52.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20905 chunks (0.85%), ETA: 68:27:17, Rate: 9.9 cps, Current: -56, 86
+[12Dec2024 02:53:53.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20954 chunks (0.86%), ETA: 61:14:53, Rate: 11.0 cps, Current: -64, 85
+[12Dec2024 02:53:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20957 chunks (0.86%), ETA: 64:53:51, Rate: 10.4 cps, Current: -47, 80
+[12Dec2024 02:53:55.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20962 chunks (0.86%), ETA: 67:34:50, Rate: 10.0 cps, Current: -46, 80
+[12Dec2024 02:53:56.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20966 chunks (0.86%), ETA: 70:11:41, Rate: 9.6 cps, Current: -44, 80
+[12Dec2024 02:53:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20974 chunks (0.86%), ETA: 67:03:57, Rate: 10.1 cps, Current: -45, 82
+[12Dec2024 02:53:59.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 20993 chunks (0.86%), ETA: 65:44:59, Rate: 10.3 cps, Current: -44, 85
+[12Dec2024 02:54:00.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21016 chunks (0.86%), ETA: 63:09:52, Rate: 10.7 cps, Current: -49, 88
+[12Dec2024 02:54:01.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21035 chunks (0.86%), ETA: 62:11:45, Rate: 10.8 cps, Current: -48, 92
+[12Dec2024 02:54:02.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21054 chunks (0.86%), ETA: 60:24:52, Rate: 11.2 cps, Current: -44, 93
+[12Dec2024 02:54:02.698] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.253] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.254] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.254] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.254] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.255] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.255] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.255] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.256] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.256] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.256] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.256] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.257] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.257] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.257] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.257] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.258] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.258] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.258] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.390] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.391] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.391] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.392] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.392] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.392] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.392] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.393] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.393] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.393] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.394] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.394] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.394] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:03.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21062 chunks (0.86%), ETA: 59:59:32, Rate: 11.2 cps, Current: -44, 91
+[12Dec2024 02:54:04.110] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.111] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.111] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.111] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.111] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.112] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.112] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.112] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.112] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.113] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.315] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.315] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:04.315] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21079 chunks (0.86%), ETA: 62:44:45, Rate: 10.7 cps, Current: -64, 92
+[12Dec2024 02:54:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21094 chunks (0.86%), ETA: 59:33:19, Rate: 11.3 cps, Current: -41, 93
+[12Dec2024 02:54:09.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21107 chunks (0.86%), ETA: 58:37:31, Rate: 11.5 cps, Current: -63, 95
+[12Dec2024 02:54:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21118 chunks (0.86%), ETA: 57:53:06, Rate: 11.7 cps, Current: -35, 93
+[12Dec2024 02:54:11.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21125 chunks (0.86%), ETA: 58:25:50, Rate: 11.5 cps, Current: -36, 91
+[12Dec2024 02:54:12.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21141 chunks (0.86%), ETA: 56:33:03, Rate: 11.9 cps, Current: -52, 95
+[12Dec2024 02:54:13.493] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:13.494] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:13.494] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:13.495] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:13.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21153 chunks (0.86%), ETA: 56:34:23, Rate: 11.9 cps, Current: -36, 87
+[12Dec2024 02:54:14.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21169 chunks (0.86%), ETA: 56:36:01, Rate: 11.9 cps, Current: -37, 86
+[12Dec2024 02:54:15.037] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:15.037] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:15.037] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:15.038] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:15.038] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:15.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21184 chunks (0.86%), ETA: 56:18:23, Rate: 12.0 cps, Current: -39, 83
+[12Dec2024 02:54:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21202 chunks (0.87%), ETA: 55:07:52, Rate: 12.2 cps, Current: -35, 82
+[12Dec2024 02:54:18.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21213 chunks (0.87%), ETA: 55:40:42, Rate: 12.1 cps, Current: -35, 78
+[12Dec2024 02:54:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21224 chunks (0.87%), ETA: 56:07:09, Rate: 12.0 cps, Current: -34, 76
+[12Dec2024 02:54:20.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21242 chunks (0.87%), ETA: 54:56:46, Rate: 12.3 cps, Current: -37, 73
+[12Dec2024 02:54:21.436] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:21.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21266 chunks (0.87%), ETA: 54:26:00, Rate: 12.4 cps, Current: -46, 95
+[12Dec2024 02:54:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21298 chunks (0.87%), ETA: 57:05:29, Rate: 11.8 cps, Current: -40, 74
+[12Dec2024 02:54:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21333 chunks (0.87%), ETA: 52:07:23, Rate: 12.9 cps, Current: -48, 72
+[12Dec2024 02:54:24.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21350 chunks (0.87%), ETA: 50:34:25, Rate: 13.3 cps, Current: -47, 71
+[12Dec2024 02:54:25.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21401 chunks (0.87%), ETA: 44:58:15, Rate: 15.0 cps, Current: -41, 64
+[12Dec2024 02:54:26.290] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:26.292] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:26.298] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:26.299] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:26.514] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:26.515] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:26.516] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:26.516] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21428 chunks (0.87%), ETA: 43:04:24, Rate: 15.7 cps, Current: -38, 71
+[12Dec2024 02:54:27.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21448 chunks (0.88%), ETA: 42:31:54, Rate: 15.9 cps, Current: -37, 67
+[12Dec2024 02:54:28.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21476 chunks (0.88%), ETA: 41:41:39, Rate: 16.2 cps, Current: -32, 65
+[12Dec2024 02:54:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21497 chunks (0.88%), ETA: 41:54:51, Rate: 16.1 cps, Current: -30, 68
+[12Dec2024 02:54:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21512 chunks (0.88%), ETA: 41:58:27, Rate: 16.1 cps, Current: -27, 66
+[12Dec2024 02:54:32.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21532 chunks (0.88%), ETA: 41:34:40, Rate: 16.2 cps, Current: -24, 65
+[12Dec2024 02:54:33.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21546 chunks (0.88%), ETA: 41:06:38, Rate: 16.4 cps, Current: -19, 65
+[12Dec2024 02:54:34.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21562 chunks (0.88%), ETA: 38:18:05, Rate: 17.6 cps, Current: -18, 67
+[12Dec2024 02:54:35.074] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:35.075] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:35.075] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:35.075] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21585 chunks (0.88%), ETA: 37:54:53, Rate: 17.8 cps, Current: -33, 95
+[12Dec2024 02:54:36.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21603 chunks (0.88%), ETA: 37:57:06, Rate: 17.8 cps, Current: -33, 85
+[12Dec2024 02:54:37.069] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:37.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:37.092] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:37.093] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:37.093] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:37.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21616 chunks (0.88%), ETA: 38:03:24, Rate: 17.7 cps, Current: -18, 71
+[12Dec2024 02:54:38.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21631 chunks (0.88%), ETA: 36:59:03, Rate: 18.2 cps, Current: -23, 73
+[12Dec2024 02:54:39.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21638 chunks (0.88%), ETA: 37:46:25, Rate: 17.9 cps, Current: -21, 75
+[12Dec2024 02:54:40.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21649 chunks (0.88%), ETA: 37:53:16, Rate: 17.8 cps, Current: -23, 76
+[12Dec2024 02:54:42.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21655 chunks (0.88%), ETA: 38:14:52, Rate: 17.6 cps, Current: -24, 77
+[12Dec2024 02:54:43.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21686 chunks (0.89%), ETA: 36:52:53, Rate: 18.3 cps, Current: -29, 75
+[12Dec2024 02:54:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21722 chunks (0.89%), ETA: 35:34:21, Rate: 19.0 cps, Current: -27, 78
+[12Dec2024 02:54:45.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21741 chunks (0.89%), ETA: 35:16:52, Rate: 19.1 cps, Current: -29, 80
+[12Dec2024 02:54:45.583] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.583] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.736] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.736] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.737] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.737] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.737] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.953] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.953] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.967] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:45.967] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:46.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21760 chunks (0.89%), ETA: 35:08:43, Rate: 19.2 cps, Current: -28, 84
+[12Dec2024 02:54:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21782 chunks (0.89%), ETA: 34:16:52, Rate: 19.7 cps, Current: -29, 86
+[12Dec2024 02:54:48.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21799 chunks (0.89%), ETA: 33:48:07, Rate: 19.9 cps, Current: -32, 92
+[12Dec2024 02:54:49.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21812 chunks (0.89%), ETA: 34:07:21, Rate: 19.8 cps, Current: -30, 93
+[12Dec2024 02:54:50.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21826 chunks (0.89%), ETA: 35:04:45, Rate: 19.2 cps, Current: -27, 92
+[12Dec2024 02:54:51.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21846 chunks (0.89%), ETA: 35:59:26, Rate: 18.7 cps, Current: -25, 86
+[12Dec2024 02:54:53.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21858 chunks (0.89%), ETA: 37:52:32, Rate: 17.8 cps, Current: -24, 89
+[12Dec2024 02:54:54.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21875 chunks (0.89%), ETA: 37:52:49, Rate: 17.8 cps, Current: -23, 93
+[12Dec2024 02:54:55.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21883 chunks (0.89%), ETA: 41:17:20, Rate: 16.3 cps, Current: -21, 93
+[12Dec2024 02:54:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21895 chunks (0.89%), ETA: 42:36:02, Rate: 15.8 cps, Current: -19, 90
+[12Dec2024 02:54:57.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21909 chunks (0.89%), ETA: 43:11:14, Rate: 15.6 cps, Current: -18, 79
+[12Dec2024 02:54:58.158] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:58.158] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:58.159] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:58.159] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:58.180] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:54:58.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21916 chunks (0.89%), ETA: 45:02:58, Rate: 15.0 cps, Current: -19, 85
+[12Dec2024 02:54:59.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21978 chunks (0.90%), ETA: 41:32:37, Rate: 16.2 cps, Current: -17, 72
+[12Dec2024 02:55:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21989 chunks (0.90%), ETA: 42:04:03, Rate: 16.0 cps, Current: -16, 80
+[12Dec2024 02:55:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 21994 chunks (0.90%), ETA: 43:38:34, Rate: 15.4 cps, Current: -12, 80
+[12Dec2024 02:55:03.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22006 chunks (0.90%), ETA: 43:44:50, Rate: 15.4 cps, Current: -13, 83
+[12Dec2024 02:55:03.697] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:03.698] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:03.698] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:03.699] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:04.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22018 chunks (0.90%), ETA: 44:10:59, Rate: 15.3 cps, Current: -12, 85
+[12Dec2024 02:55:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22037 chunks (0.90%), ETA: 45:03:51, Rate: 15.0 cps, Current: -17, 88
+[12Dec2024 02:55:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22052 chunks (0.90%), ETA: 45:06:43, Rate: 14.9 cps, Current: -17, 90
+[12Dec2024 02:55:07.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22069 chunks (0.90%), ETA: 45:03:08, Rate: 15.0 cps, Current: -14, 91
+[12Dec2024 02:55:08.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22081 chunks (0.90%), ETA: 44:38:19, Rate: 15.1 cps, Current: -12, 92
+[12Dec2024 02:55:09.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22096 chunks (0.90%), ETA: 44:06:32, Rate: 15.3 cps, Current: -13, 94
+[12Dec2024 02:55:11.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22102 chunks (0.90%), ETA: 44:23:03, Rate: 15.2 cps, Current: -10, 91
+[12Dec2024 02:55:12.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22110 chunks (0.90%), ETA: 46:51:55, Rate: 14.4 cps, Current: -30, 95
+[12Dec2024 02:55:13.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22122 chunks (0.90%), ETA: 49:39:36, Rate: 13.6 cps, Current: -8, 93
+[12Dec2024 02:55:14.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22134 chunks (0.90%), ETA: 50:56:57, Rate: 13.2 cps, Current: -6, 93
+[12Dec2024 02:55:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22139 chunks (0.90%), ETA: 54:35:19, Rate: 12.4 cps, Current: -4, 93
+[12Dec2024 02:55:17.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22146 chunks (0.90%), ETA: 56:12:41, Rate: 12.0 cps, Current: -23, 95
+[12Dec2024 02:55:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22160 chunks (0.90%), ETA: 55:49:54, Rate: 12.1 cps, Current: -3, 91
+[12Dec2024 02:55:19.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22173 chunks (0.91%), ETA: 55:46:29, Rate: 12.1 cps, Current: -3, 89
+[12Dec2024 02:55:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22193 chunks (0.91%), ETA: 54:36:29, Rate: 12.3 cps, Current: -6, 86
+[12Dec2024 02:55:21.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22212 chunks (0.91%), ETA: 54:42:38, Rate: 12.3 cps, Current: -7, 81
+[12Dec2024 02:55:22.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22230 chunks (0.91%), ETA: 53:17:16, Rate: 12.7 cps, Current: -3, 80
+[12Dec2024 02:55:23.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22245 chunks (0.91%), ETA: 53:28:36, Rate: 12.6 cps, Current: -3, 77
+[12Dec2024 02:55:24.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22252 chunks (0.91%), ETA: 53:28:05, Rate: 12.6 cps, Current: -3, 76
+[12Dec2024 02:55:25.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22266 chunks (0.91%), ETA: 53:11:15, Rate: 12.7 cps, Current: -5, 74
+[12Dec2024 02:55:26.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22289 chunks (0.91%), ETA: 51:56:09, Rate: 13.0 cps, Current: -7, 72
+[12Dec2024 02:55:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22309 chunks (0.91%), ETA: 50:10:01, Rate: 13.4 cps, Current: -14, 79
+[12Dec2024 02:55:28.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22341 chunks (0.91%), ETA: 53:43:37, Rate: 12.5 cps, Current: -15, 74
+[12Dec2024 02:55:30.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22362 chunks (0.91%), ETA: 52:57:44, Rate: 12.7 cps, Current: -10, 71
+[12Dec2024 02:55:31.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22390 chunks (0.91%), ETA: 49:31:42, Rate: 13.6 cps, Current: -16, 68
+[12Dec2024 02:55:32.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22432 chunks (0.92%), ETA: 46:09:18, Rate: 14.6 cps, Current: -9, 66
+[12Dec2024 02:55:33.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22461 chunks (0.92%), ETA: 44:17:24, Rate: 15.2 cps, Current: -8, 95
+[12Dec2024 02:55:34.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22494 chunks (0.92%), ETA: 42:43:10, Rate: 15.8 cps, Current: -5, 95
+[12Dec2024 02:55:34.753] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:34.754] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:34.754] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:34.754] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:34.755] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:34.768] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:34.768] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:34.768] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:34.769] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:35.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22514 chunks (0.92%), ETA: 42:12:56, Rate: 16.0 cps, Current: 1, 68
+[12Dec2024 02:55:36.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22528 chunks (0.92%), ETA: 42:33:34, Rate: 15.8 cps, Current: 5, 68
+[12Dec2024 02:55:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22551 chunks (0.92%), ETA: 41:29:36, Rate: 16.2 cps, Current: 7, 64
+[12Dec2024 02:55:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22560 chunks (0.92%), ETA: 42:44:41, Rate: 15.8 cps, Current: 10, 64
+[12Dec2024 02:55:40.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22573 chunks (0.92%), ETA: 41:19:51, Rate: 16.3 cps, Current: 11, 66
+[12Dec2024 02:55:41.605] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:41.606] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:41.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22589 chunks (0.92%), ETA: 40:50:23, Rate: 16.5 cps, Current: -1, 80
+[12Dec2024 02:55:41.884] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:41.885] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:43.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22603 chunks (0.92%), ETA: 41:26:01, Rate: 16.3 cps, Current: 8, 67
+[12Dec2024 02:55:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22624 chunks (0.92%), ETA: 40:46:32, Rate: 16.5 cps, Current: 0, 71
+[12Dec2024 02:55:45.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22637 chunks (0.92%), ETA: 39:55:03, Rate: 16.9 cps, Current: 8, 71
+[12Dec2024 02:55:46.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22651 chunks (0.92%), ETA: 39:42:46, Rate: 17.0 cps, Current: 11, 74
+[12Dec2024 02:55:48.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22662 chunks (0.93%), ETA: 39:54:19, Rate: 16.9 cps, Current: 12, 76
+[12Dec2024 02:55:49.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22674 chunks (0.93%), ETA: 40:04:04, Rate: 16.8 cps, Current: 8, 77
+[12Dec2024 02:55:50.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22683 chunks (0.93%), ETA: 40:58:49, Rate: 16.4 cps, Current: 5, 76
+[12Dec2024 02:55:51.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22739 chunks (0.93%), ETA: 37:59:25, Rate: 17.7 cps, Current: 0, 78
+[12Dec2024 02:55:52.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22758 chunks (0.93%), ETA: 37:55:42, Rate: 17.8 cps, Current: 3, 79
+[12Dec2024 02:55:53.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22775 chunks (0.93%), ETA: 37:47:02, Rate: 17.8 cps, Current: 3, 82
+[12Dec2024 02:55:53.638] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:53.638] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:53.638] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:53.639] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:53.639] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.126] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.126] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.126] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.127] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.145] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.146] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.146] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.147] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.147] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.168] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.169] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:55:54.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22786 chunks (0.93%), ETA: 37:30:18, Rate: 18.0 cps, Current: 4, 85
+[12Dec2024 02:55:55.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22811 chunks (0.93%), ETA: 37:21:55, Rate: 18.0 cps, Current: 1, 88
+[12Dec2024 02:55:56.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22825 chunks (0.93%), ETA: 37:48:23, Rate: 17.8 cps, Current: 0, 94
+[12Dec2024 02:55:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22837 chunks (0.93%), ETA: 39:22:25, Rate: 17.1 cps, Current: 2, 94
+[12Dec2024 02:55:59.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22850 chunks (0.93%), ETA: 39:39:19, Rate: 17.0 cps, Current: 5, 92
+[12Dec2024 02:56:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22871 chunks (0.93%), ETA: 39:27:59, Rate: 17.1 cps, Current: 7, 80
+[12Dec2024 02:56:01.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22886 chunks (0.93%), ETA: 40:38:57, Rate: 16.6 cps, Current: 7, 93
+[12Dec2024 02:56:02.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22900 chunks (0.93%), ETA: 44:21:03, Rate: 15.2 cps, Current: 10, 79
+[12Dec2024 02:56:03.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22913 chunks (0.94%), ETA: 44:35:11, Rate: 15.1 cps, Current: 12, 79
+[12Dec2024 02:56:04.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22921 chunks (0.94%), ETA: 47:37:38, Rate: 14.2 cps, Current: 13, 91
+[12Dec2024 02:56:05.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22934 chunks (0.94%), ETA: 47:46:35, Rate: 14.1 cps, Current: 13, 94
+[12Dec2024 02:56:06.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22947 chunks (0.94%), ETA: 47:42:37, Rate: 14.1 cps, Current: 12, 87
+[12Dec2024 02:56:07.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 22992 chunks (0.94%), ETA: 45:19:48, Rate: 14.9 cps, Current: 14, 93
+[12Dec2024 02:56:08.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23006 chunks (0.94%), ETA: 44:13:49, Rate: 15.2 cps, Current: 15, 77
+[12Dec2024 02:56:10.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23014 chunks (0.94%), ETA: 46:04:25, Rate: 14.6 cps, Current: 17, 80
+[12Dec2024 02:56:11.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23021 chunks (0.94%), ETA: 45:58:23, Rate: 14.7 cps, Current: 16, 82
+[12Dec2024 02:56:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23038 chunks (0.94%), ETA: 45:58:51, Rate: 14.7 cps, Current: 21, 84
+[12Dec2024 02:56:13.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23055 chunks (0.94%), ETA: 45:56:18, Rate: 14.7 cps, Current: 22, 83
+[12Dec2024 02:56:14.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23072 chunks (0.94%), ETA: 45:22:50, Rate: 14.9 cps, Current: 17, 89
+[12Dec2024 02:56:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23087 chunks (0.94%), ETA: 44:43:33, Rate: 15.1 cps, Current: 17, 90
+[12Dec2024 02:56:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23103 chunks (0.94%), ETA: 44:12:37, Rate: 15.2 cps, Current: 20, 93
+[12Dec2024 02:56:17.162] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:17.163] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:17.163] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:17.163] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:17.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:17.370] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:17.370] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:17.370] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:17.370] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:18.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23123 chunks (0.94%), ETA: 43:07:12, Rate: 15.6 cps, Current: 22, 88
+[12Dec2024 02:56:18.949] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=383, y=0, z=1483}
+[12Dec2024 02:56:18.949] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=382, y=7, z=1480}
+[12Dec2024 02:56:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23128 chunks (0.94%), ETA: 44:16:26, Rate: 15.2 cps, Current: 22, 93
+[12Dec2024 02:56:19.798] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.799] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.799] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.799] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.799] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.800] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.800] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.800] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.800] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:19.801] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23133 chunks (0.94%), ETA: 49:33:20, Rate: 13.6 cps, Current: 23, 90
+[12Dec2024 02:56:20.557] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.558] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.642] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.642] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.643] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.643] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.643] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.644] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.644] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.644] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.644] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.645] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.645] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.645] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.646] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.646] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.646] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.647] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.647] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.707] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.708] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.708] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.709] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.709] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.709] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.710] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.710] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.710] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.711] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.711] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.711] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:20.712] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:21.252] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=394, y=-1, z=1505}
+[12Dec2024 02:56:21.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23145 chunks (0.94%), ETA: 50:34:22, Rate: 13.3 cps, Current: 24, 92
+[12Dec2024 02:56:21.526] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=405, y=16, z=1531}
+[12Dec2024 02:56:21.824] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:21.825] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:21.942] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:22.012] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=420, y=0, z=1525}
+[12Dec2024 02:56:22.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23157 chunks (0.95%), ETA: 51:57:08, Rate: 13.0 cps, Current: 26, 94
+[12Dec2024 02:56:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23162 chunks (0.95%), ETA: 55:03:05, Rate: 12.2 cps, Current: 4, 95
+[12Dec2024 02:56:25.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23175 chunks (0.95%), ETA: 55:02:05, Rate: 12.2 cps, Current: 10, 95
+[12Dec2024 02:56:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23186 chunks (0.95%), ETA: 55:37:48, Rate: 12.1 cps, Current: 28, 89
+[12Dec2024 02:56:27.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23198 chunks (0.95%), ETA: 55:35:00, Rate: 12.1 cps, Current: 23, 87
+[12Dec2024 02:56:27.959] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:27.960] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.347] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.348] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.552] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.552] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.568] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.569] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.569] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.569] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.570] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:56:28.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23219 chunks (0.95%), ETA: 54:19:02, Rate: 12.4 cps, Current: 25, 85
+[12Dec2024 02:56:29.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23236 chunks (0.95%), ETA: 54:54:11, Rate: 12.3 cps, Current: 30, 87
+[12Dec2024 02:56:31.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23256 chunks (0.95%), ETA: 54:02:08, Rate: 12.5 cps, Current: 29, 80
+[12Dec2024 02:56:32.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23268 chunks (0.95%), ETA: 54:17:50, Rate: 12.4 cps, Current: 30, 77
+[12Dec2024 02:56:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23278 chunks (0.95%), ETA: 54:58:07, Rate: 12.3 cps, Current: 30, 73
+[12Dec2024 02:56:34.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23290 chunks (0.95%), ETA: 54:19:36, Rate: 12.4 cps, Current: 30, 72
+[12Dec2024 02:56:35.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23315 chunks (0.95%), ETA: 52:39:04, Rate: 12.8 cps, Current: 24, 79
+[12Dec2024 02:56:36.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23346 chunks (0.95%), ETA: 50:12:44, Rate: 13.4 cps, Current: 18, 77
+[12Dec2024 02:56:37.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23381 chunks (0.95%), ETA: 51:36:22, Rate: 13.1 cps, Current: 19, 95
+[12Dec2024 02:56:38.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23389 chunks (0.95%), ETA: 52:14:06, Rate: 12.9 cps, Current: 21, 69
+[12Dec2024 02:56:39.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23448 chunks (0.96%), ETA: 44:38:40, Rate: 15.1 cps, Current: 24, 64
+[12Dec2024 02:56:40.088] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=404, y=11, z=1540}
+[12Dec2024 02:56:40.089] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=404, y=16, z=1537}
+[12Dec2024 02:56:40.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23484 chunks (0.96%), ETA: 42:46:41, Rate: 15.8 cps, Current: 27, 70
+[12Dec2024 02:56:41.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23516 chunks (0.96%), ETA: 40:37:46, Rate: 16.6 cps, Current: 33, 64
+[12Dec2024 02:56:42.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23537 chunks (0.96%), ETA: 40:14:12, Rate: 16.7 cps, Current: 34, 67
+[12Dec2024 02:56:43.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23551 chunks (0.96%), ETA: 40:39:39, Rate: 16.6 cps, Current: 36, 69
+[12Dec2024 02:56:45.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23571 chunks (0.96%), ETA: 40:25:59, Rate: 16.7 cps, Current: 38, 68
+[12Dec2024 02:56:46.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23586 chunks (0.96%), ETA: 40:30:59, Rate: 16.6 cps, Current: 41, 66
+[12Dec2024 02:56:47.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23596 chunks (0.96%), ETA: 41:33:51, Rate: 16.2 cps, Current: 46, 65
+[12Dec2024 02:56:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23618 chunks (0.96%), ETA: 40:06:10, Rate: 16.8 cps, Current: 31, 86
+[12Dec2024 02:56:49.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23633 chunks (0.96%), ETA: 39:03:51, Rate: 17.2 cps, Current: 45, 67
+[12Dec2024 02:56:50.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23645 chunks (0.97%), ETA: 39:08:21, Rate: 17.2 cps, Current: 33, 71
+[12Dec2024 02:56:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23658 chunks (0.97%), ETA: 38:39:11, Rate: 17.4 cps, Current: 43, 70
+[12Dec2024 02:56:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23667 chunks (0.97%), ETA: 39:20:17, Rate: 17.1 cps, Current: 41, 72
+[12Dec2024 02:56:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23676 chunks (0.97%), ETA: 38:44:31, Rate: 17.4 cps, Current: 41, 74
+[12Dec2024 02:56:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23687 chunks (0.97%), ETA: 39:07:26, Rate: 17.2 cps, Current: 44, 76
+[12Dec2024 02:56:56.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23699 chunks (0.97%), ETA: 38:59:38, Rate: 17.3 cps, Current: 40, 77
+[12Dec2024 02:56:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23706 chunks (0.97%), ETA: 39:24:02, Rate: 17.1 cps, Current: 37, 77
+[12Dec2024 02:56:58.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23750 chunks (0.97%), ETA: 37:28:07, Rate: 18.0 cps, Current: 32, 76
+[12Dec2024 02:56:59.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23768 chunks (0.97%), ETA: 37:19:38, Rate: 18.0 cps, Current: 32, 80
+[12Dec2024 02:57:00.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23780 chunks (0.97%), ETA: 37:49:31, Rate: 17.8 cps, Current: 42, 78
+[12Dec2024 02:57:01.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23795 chunks (0.97%), ETA: 37:36:41, Rate: 17.9 cps, Current: 36, 81
+[12Dec2024 02:57:02.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23808 chunks (0.97%), ETA: 37:16:14, Rate: 18.1 cps, Current: 36, 84
+[12Dec2024 02:57:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23827 chunks (0.97%), ETA: 36:45:23, Rate: 18.3 cps, Current: 32, 86
+[12Dec2024 02:57:04.694] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:04.694] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:04.695] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:04.695] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:04.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23847 chunks (0.97%), ETA: 37:10:09, Rate: 18.1 cps, Current: 32, 92
+[12Dec2024 02:57:05.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23864 chunks (0.97%), ETA: 38:10:09, Rate: 17.7 cps, Current: 35, 93
+[12Dec2024 02:57:06.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23886 chunks (0.98%), ETA: 39:07:31, Rate: 17.2 cps, Current: 36, 94
+[12Dec2024 02:57:07.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23899 chunks (0.98%), ETA: 38:42:34, Rate: 17.4 cps, Current: 39, 82
+[12Dec2024 02:57:08.432] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:08.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23916 chunks (0.98%), ETA: 42:03:38, Rate: 16.0 cps, Current: 40, 93
+[12Dec2024 02:57:10.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23931 chunks (0.98%), ETA: 44:09:08, Rate: 15.3 cps, Current: 42, 79
+[12Dec2024 02:57:11.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23939 chunks (0.98%), ETA: 46:47:00, Rate: 14.4 cps, Current: 44, 92
+[12Dec2024 02:57:12.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23948 chunks (0.98%), ETA: 47:59:37, Rate: 14.0 cps, Current: 45, 92
+[12Dec2024 02:57:13.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23957 chunks (0.98%), ETA: 48:23:28, Rate: 13.9 cps, Current: 43, 94
+[12Dec2024 02:57:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 23961 chunks (0.98%), ETA: 50:19:53, Rate: 13.4 cps, Current: 45, 85
+[12Dec2024 02:57:14.791] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:14.791] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:14.792] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:14.792] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:14.828] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:14.828] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:14.828] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:14.828] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24002 chunks (0.98%), ETA: 47:10:58, Rate: 14.3 cps, Current: 42, 80
+[12Dec2024 02:57:16.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24026 chunks (0.98%), ETA: 45:20:19, Rate: 14.9 cps, Current: 47, 73
+[12Dec2024 02:57:17.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24036 chunks (0.98%), ETA: 47:12:34, Rate: 14.3 cps, Current: 48, 81
+[12Dec2024 02:57:19.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24042 chunks (0.98%), ETA: 48:38:53, Rate: 13.8 cps, Current: 51, 80
+[12Dec2024 02:57:19.592] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:20.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24052 chunks (0.98%), ETA: 48:41:24, Rate: 13.8 cps, Current: 51, 82
+[12Dec2024 02:57:20.300] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:20.300] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:20.301] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:20.301] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24065 chunks (0.98%), ETA: 48:28:06, Rate: 13.9 cps, Current: 47, 85
+[12Dec2024 02:57:21.772] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:21.772] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:21.772] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:21.792] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:21.792] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:21.793] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:22.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24081 chunks (0.98%), ETA: 47:35:55, Rate: 14.2 cps, Current: 47, 87
+[12Dec2024 02:57:23.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24096 chunks (0.98%), ETA: 46:26:24, Rate: 14.5 cps, Current: 53, 86
+[12Dec2024 02:57:24.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24108 chunks (0.98%), ETA: 46:09:49, Rate: 14.6 cps, Current: 50, 90
+[12Dec2024 02:57:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24123 chunks (0.98%), ETA: 46:07:35, Rate: 14.6 cps, Current: 50, 93
+[12Dec2024 02:57:26.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24130 chunks (0.99%), ETA: 45:59:16, Rate: 14.6 cps, Current: 53, 92
+[12Dec2024 02:57:27.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24149 chunks (0.99%), ETA: 49:44:21, Rate: 13.5 cps, Current: 54, 90
+[12Dec2024 02:57:29.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24157 chunks (0.99%), ETA: 51:31:45, Rate: 13.1 cps, Current: 58, 89
+[12Dec2024 02:57:30.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24176 chunks (0.99%), ETA: 50:43:37, Rate: 13.3 cps, Current: 58, 91
+[12Dec2024 02:57:31.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24184 chunks (0.99%), ETA: 52:01:53, Rate: 12.9 cps, Current: 60, 93
+[12Dec2024 02:57:32.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24188 chunks (0.99%), ETA: 54:09:34, Rate: 12.4 cps, Current: 38, 95
+[12Dec2024 02:57:33.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24206 chunks (0.99%), ETA: 54:19:04, Rate: 12.4 cps, Current: 61, 91
+[12Dec2024 02:57:35.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24221 chunks (0.99%), ETA: 55:09:25, Rate: 12.2 cps, Current: 55, 87
+[12Dec2024 02:57:36.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24235 chunks (0.99%), ETA: 56:40:38, Rate: 11.9 cps, Current: 56, 86
+[12Dec2024 02:57:37.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24251 chunks (0.99%), ETA: 56:15:50, Rate: 12.0 cps, Current: 58, 84
+[12Dec2024 02:57:38.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24267 chunks (0.99%), ETA: 56:18:03, Rate: 12.0 cps, Current: 60, 83
+[12Dec2024 02:57:39.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24283 chunks (0.99%), ETA: 56:52:12, Rate: 11.8 cps, Current: 62, 79
+[12Dec2024 02:57:41.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24294 chunks (0.99%), ETA: 56:38:44, Rate: 11.9 cps, Current: 60, 79
+[12Dec2024 02:57:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24313 chunks (0.99%), ETA: 55:19:49, Rate: 12.2 cps, Current: 60, 75
+[12Dec2024 02:57:43.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24322 chunks (0.99%), ETA: 54:27:01, Rate: 12.4 cps, Current: 58, 74
+[12Dec2024 02:57:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24349 chunks (0.99%), ETA: 56:42:08, Rate: 11.9 cps, Current: 54, 78
+[12Dec2024 02:57:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24377 chunks (1.00%), ETA: 56:39:57, Rate: 11.9 cps, Current: 48, 75
+[12Dec2024 02:57:47.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24389 chunks (1.00%), ETA: 55:40:12, Rate: 12.1 cps, Current: 49, 74
+[12Dec2024 02:57:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24417 chunks (1.00%), ETA: 52:34:04, Rate: 12.8 cps, Current: 55, 72
+[12Dec2024 02:57:49.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24434 chunks (1.00%), ETA: 51:48:00, Rate: 13.0 cps, Current: 51, 70
+[12Dec2024 02:57:49.648] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:49.648] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:49.648] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:49.649] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:49.649] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:57:50.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24485 chunks (1.00%), ETA: 47:08:11, Rate: 14.3 cps, Current: 56, 64
+[12Dec2024 02:57:51.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24516 chunks (1.00%), ETA: 45:37:59, Rate: 14.8 cps, Current: 60, 71
+[12Dec2024 02:57:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24548 chunks (1.00%), ETA: 44:08:19, Rate: 15.3 cps, Current: 64, 65
+[12Dec2024 02:57:53.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24566 chunks (1.00%), ETA: 43:37:59, Rate: 15.4 cps, Current: 65, 69
+[12Dec2024 02:57:55.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24578 chunks (1.00%), ETA: 44:07:58, Rate: 15.3 cps, Current: 69, 68
+[12Dec2024 02:57:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24602 chunks (1.00%), ETA: 42:18:50, Rate: 15.9 cps, Current: 71, 66
+[12Dec2024 02:57:57.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24615 chunks (1.01%), ETA: 42:04:43, Rate: 16.0 cps, Current: 78, 64
+[12Dec2024 02:57:58.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24628 chunks (1.01%), ETA: 41:11:41, Rate: 16.3 cps, Current: 63, 77
+[12Dec2024 02:57:59.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24642 chunks (1.01%), ETA: 41:44:32, Rate: 16.1 cps, Current: 63, 92
+[12Dec2024 02:58:00.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24654 chunks (1.01%), ETA: 41:15:01, Rate: 16.3 cps, Current: 71, 68
+[12Dec2024 02:58:01.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24678 chunks (1.01%), ETA: 40:40:03, Rate: 16.6 cps, Current: 68, 71
+[12Dec2024 02:58:01.641] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=971, y=73, z=1151} but found not block entity block Block{minecraft:cave_air} at location
+[12Dec2024 02:58:01.642] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=971, y=73, z=1151}
+[12Dec2024 02:58:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24693 chunks (1.01%), ETA: 40:03:34, Rate: 16.8 cps, Current: 74, 73
+[12Dec2024 02:58:03.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24703 chunks (1.01%), ETA: 40:10:12, Rate: 16.8 cps, Current: 76, 74
+[12Dec2024 02:58:04.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24715 chunks (1.01%), ETA: 40:33:29, Rate: 16.6 cps, Current: 77, 73
+[12Dec2024 02:58:05.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24726 chunks (1.01%), ETA: 40:42:43, Rate: 16.5 cps, Current: 76, 77
+[12Dec2024 02:58:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24756 chunks (1.01%), ETA: 39:35:54, Rate: 17.0 cps, Current: 78, 71
+[12Dec2024 02:58:08.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24793 chunks (1.01%), ETA: 38:01:12, Rate: 17.7 cps, Current: 64, 81
+[12Dec2024 02:58:09.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24812 chunks (1.01%), ETA: 37:12:35, Rate: 18.1 cps, Current: 78, 78
+[12Dec2024 02:58:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24832 chunks (1.01%), ETA: 35:59:14, Rate: 18.7 cps, Current: 69, 83
+[12Dec2024 02:58:10.593] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:10.593] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:10.594] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:10.594] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:10.691] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:10.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:10.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:10.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:10.693] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24848 chunks (1.01%), ETA: 36:19:32, Rate: 18.5 cps, Current: 70, 83
+[12Dec2024 02:58:12.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24861 chunks (1.02%), ETA: 36:31:47, Rate: 18.4 cps, Current: 65, 88
+[12Dec2024 02:58:13.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24875 chunks (1.02%), ETA: 36:11:55, Rate: 18.6 cps, Current: 79, 65
+[12Dec2024 02:58:14.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24886 chunks (1.02%), ETA: 37:12:49, Rate: 18.1 cps, Current: 67, 91
+[12Dec2024 02:58:15.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24898 chunks (1.02%), ETA: 37:58:20, Rate: 17.7 cps, Current: 69, 93
+[12Dec2024 02:58:16.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24921 chunks (1.02%), ETA: 37:11:17, Rate: 18.1 cps, Current: 71, 85
+[12Dec2024 02:58:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24934 chunks (1.02%), ETA: 37:54:31, Rate: 17.8 cps, Current: 73, 88
+[12Dec2024 02:58:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24949 chunks (1.02%), ETA: 38:08:15, Rate: 17.7 cps, Current: 74, 90
+[12Dec2024 02:58:19.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24961 chunks (1.02%), ETA: 41:30:09, Rate: 16.2 cps, Current: 76, 92
+[12Dec2024 02:58:21.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24972 chunks (1.02%), ETA: 43:17:00, Rate: 15.6 cps, Current: 77, 92
+[12Dec2024 02:58:22.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 24983 chunks (1.02%), ETA: 45:44:08, Rate: 14.7 cps, Current: 78, 84
+[12Dec2024 02:58:23.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25034 chunks (1.02%), ETA: 42:16:47, Rate: 15.9 cps, Current: 77, 80
+[12Dec2024 02:58:24.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25050 chunks (1.02%), ETA: 41:57:11, Rate: 16.1 cps, Current: 79, 82
+[12Dec2024 02:58:26.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25061 chunks (1.02%), ETA: 43:42:18, Rate: 15.4 cps, Current: 80, 80
+[12Dec2024 02:58:26.972] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:27.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25064 chunks (1.02%), ETA: 44:46:57, Rate: 15.0 cps, Current: 81, 81
+[12Dec2024 02:58:28.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25068 chunks (1.02%), ETA: 45:30:54, Rate: 14.8 cps, Current: 85, 80
+[12Dec2024 02:58:28.281] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.281] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.282] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.725] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.725] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.726] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.726] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.744] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.744] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.744] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.916] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.916] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.917] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.917] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:28.917] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:29.120] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:29.120] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:29.121] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:29.121] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 02:58:29.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25077 chunks (1.02%), ETA: 46:09:30, Rate: 14.6 cps, Current: 84, 82
+[12Dec2024 02:58:30.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25090 chunks (1.02%), ETA: 46:09:43, Rate: 14.6 cps, Current: 85, 85
+[12Dec2024 02:58:31.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25106 chunks (1.03%), ETA: 47:00:58, Rate: 14.3 cps, Current: 86, 85
+[12Dec2024 02:58:32.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25126 chunks (1.03%), ETA: 46:21:23, Rate: 14.5 cps, Current: 82, 88
+[12Dec2024 02:58:33.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25143 chunks (1.03%), ETA: 45:30:53, Rate: 14.8 cps, Current: 82, 93
+[12Dec2024 02:58:34.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25168 chunks (1.03%), ETA: 44:14:21, Rate: 15.2 cps, Current: 86, 87
+[12Dec2024 02:58:35.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25173 chunks (1.03%), ETA: 44:44:24, Rate: 15.1 cps, Current: 86, 90
+[12Dec2024 02:58:36.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25182 chunks (1.03%), ETA: 47:11:27, Rate: 14.3 cps, Current: 90, 89
+[12Dec2024 02:58:37.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25202 chunks (1.03%), ETA: 49:10:06, Rate: 13.7 cps, Current: 90, 91
+[12Dec2024 02:58:39.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25209 chunks (1.03%), ETA: 51:43:13, Rate: 13.0 cps, Current: 92, 94
+[12Dec2024 02:58:40.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25214 chunks (1.03%), ETA: 53:02:15, Rate: 12.7 cps, Current: 72, 95
+[12Dec2024 02:58:41.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25227 chunks (1.03%), ETA: 53:02:52, Rate: 12.7 cps, Current: 91, 90
+[12Dec2024 02:58:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 25239 chunks (1.03%), ETA: 53:29:24, Rate: 12.6 cps, Current: 92, 88
