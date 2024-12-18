@@ -4410,9 +4410,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2024-12-18 03:07:59 +0000",
+      "minecraft:sparse_jungle": "2024-12-18 03:01:12 +0000",
       "minecraft:lukewarm_ocean": "2024-12-18 02:02:58 +0000",
       "minecraft:river": "2024-12-18 01:54:48 +0000",
       "minecraft:forest": "2024-12-18 02:21:11 +0000",
+      "minecraft:jungle": "2024-12-18 03:01:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-18 02:04:44 +0000"
     },
     "done": false
@@ -5615,6 +5618,108 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-18 02:23:48 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2024-12-18 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2024-12-18 03:00:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2024-12-18 03:00:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-18 03:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-18 03:03:08 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-18 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-18 03:03:08 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-18 03:03:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 03:07:37 +0000"
     },
     "done": true
   },
